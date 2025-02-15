@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thepenguin07
-- 👀 I’m interested in computer science
-- 🌱 I'm currently looking for some online courses to help me with the better understanding of the course i'm pursuing i.e. Btech cs with ai & data science
+- 👀 I’m doing my major in computer science
+   
 
 
 <!---
