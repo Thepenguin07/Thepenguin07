@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @Thepenguin07
-- 👀 I’m doing my major in computer science
-   
+👋 Hi, I’m @Thepenguin07
 
+🎓 About Me
+- 🚀 I’m currently pursuing my **Major in Computer Science**.
+- 📊 I have a strong interest in **Data Science** and **Machine Learning**.
+- 🛠️ I enjoy building interactive web apps that solve real-world problems.
+- 📫 How to reach me: https://www.linkedin.com/in/shifa-parveen-286251307
 
-<!---
-Thepenguin07/Thepenguin07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🛠️ Tech Stack
+**Languages & Tools:**
+- **Programming:** Python, C, SQL , Java
+- **Data Science:** Pandas, Scikit-learn, NumPy
+- **Web Apps:** Streamlit
+- **Version Control:** Git & GitHub
+
+🌟 Featured Project
+#### [Rainfall Prediction System](https://github.com/Thepenguin07/your-repo-name)
+I developed a machine learning application that predicts regional rainfall in India using Linear Regression. 
+- **Tech used:** Python, Streamlit, Scikit-learn.
+- **Key achievement:** Successfully mapped climate variables like humidity and temperature to precipitation trends.
+
+ 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thepenguin07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepenguin07&layout=compact&theme=radical)
+
+“Talk is cheap. Show me the code.” – Linus Torvalds*
