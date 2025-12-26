@@ -19,8 +19,4 @@ I developed a machine learning application that predicts regional rainfall in In
 - **Tech used:** Python, Streamlit, Scikit-learn.
 - **Key achievement:** Successfully mapped climate variables like humidity and temperature to precipitation trends.
 
- 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thepenguin07&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepenguin07&layout=compact&theme=radical)
-
 “Talk is cheap. Show me the code.” – Linus Torvalds*
