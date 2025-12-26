@@ -15,6 +15,7 @@
 
 🌟 Featured Project
 #### [https://github.com/Thepenguin07/Rainfall-Prediction-System]
-### [https://github.com/Thepenguin07/Smart-Travel-Route-Planner]
+#### [https://github.com/Thepenguin07/Smart-Travel-Route-Planner]
+
 
 “Talk is cheap. Show me the code.” – Linus Torvalds*
