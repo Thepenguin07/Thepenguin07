@@ -14,7 +14,7 @@
 - **Version Control:** Git & GitHub
 
 🌟 Featured Project
-#### [Rainfall Prediction System](https://github.com/Thepenguin07/your-repo-name)
+#### [https://github.com/Thepenguin07/Rainfall-Prediction-System)
 I developed a machine learning application that predicts regional rainfall in India using Linear Regression. 
 - **Tech used:** Python, Streamlit, Scikit-learn.
 - **Key achievement:** Successfully mapped climate variables like humidity and temperature to precipitation trends.
