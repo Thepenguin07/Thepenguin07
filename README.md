@@ -1,35 +1,31 @@
-# 👋 Hi, I’m @Thepenguin07
+👋 Hi, I’m @Thepenguin07
+🎓 About Me
 
-### 🎓 About Me
-* 🚀 Currently pursuing a **Major in Computer Science**.
-* 📊 Passionate about **Data Science** and **Machine Learning**, specifically how data-driven insights can solve complex problems.
-* 🛠️ I enjoy building interactive applications, from system-level tools in C to web-based ML dashboards.
+🚀 Currently pursuing a Major in Computer Science.
 
----
+📊 Passionate about Data Science and Machine Learning, specifically how data-driven insights can solve complex problems.
 
-### 🛠️ Tech Stack & Tools
+🛠️ I enjoy building interactive applications, from low-level systems to full-stack management solutions.
 
-| Category | Tools/Languages |
-| :--- | :--- |
-| **Programming** | Python, C, SQL, Java |
-| **Data Science** | Pandas, Scikit-learn, NumPy, Matplotlib |
-| **Web Apps** | Streamlit |
-| **Tools** | Git, GitHub, GTK+ 3.0 |
+🛠️ Tech Stack & Tools
 
----
+Category	Tools/Languages
+Programming	Python, C, SQL, Java
+Data Science	Pandas, Scikit-learn, NumPy, Matplotlib
+Web & UI	Streamlit, GTK+ 3.0
+Databases/Tools	MySQL/SQLite, Git, GitHub
+🌟 Featured Projects
 
-### 🌟 Featured Projects
+Airline Reservation Management System New! A comprehensive system designed to handle flight scheduling, passenger bookings, and seat inventory. Focuses on database integrity and efficient CRUD operations.
 
-* **[Rainfall Prediction System](https://github.com/Thepenguin07/Rainfall-Prediction-System)** *An ML-based forecasting tool using Python and Scikit-learn to predict weather patterns.*
-    
+Rainfall Prediction System An ML-based forecasting tool using Python and Scikit-learn to predict weather patterns based on historical climate data.
 
-* **[Smart Travel Route Planner](https://github.com/Thepenguin07/Smart-Travel-Route-Planner)** *A C-based desktop application utilizing Dijkstra and Floyd-Warshall algorithms for path optimization.*
-    
+Smart Travel Route Planner A C-based desktop application utilizing Dijkstra and Floyd-Warshall algorithms for optimal pathfinding between locations.
 
----
+📫 Connect with Me
 
-### 📫 Connect with Me
-* 💼 **LinkedIn:** [shifa-parveen-286251307](https://www.linkedin.com/in/shifa-parveen-286251307)
-* 💬 Ask me about: **Graph Algorithms, ML Model Deployment, or Python Automation.**
+💼 LinkedIn: shifa-parveen-286251307
 
-> *“Talk is cheap. Show me the code.” – Linus Torvalds*
+💬 Ask me about: Graph Algorithms, Database Management, or ML Model Deployment.
+
+“Talk is cheap. Show me the code.” – Linus Torvalds
