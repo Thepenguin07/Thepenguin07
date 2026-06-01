@@ -66,9 +66,12 @@ I am a **Computer Science Major** deeply invested in the intersection of **Data 
 
 ## ⚡ Git Tracking Dashboard
 
-https://github-readme-stats-fast.vercel.app/api?username=Thepenguin07&show_icons=true&theme=tokyonight&count_private=true
----
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=Thepenguin07&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thepenguin07&theme=tokyonight" alt="GitHub Streak" width="48%">
+</p>
 
+---
 ## 💬 Connect Interfacing Protocol
 
 ```javascript
