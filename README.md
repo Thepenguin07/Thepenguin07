@@ -1,13 +1,13 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0bTM0b3g1Mnd6NmR4M21sczNvaDJnd3RscXBybXN5Y3VwYndpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVr9WSlg5B3FiF/giphy.gif" width="40px"> ── SYSTEM_CORE // TERMINAL.INIT() ──
+# 🖥️ ── TERMINAL.INIT() ── 🚀
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shifa-parveen-286251307"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9ece6a?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/LIVE__THREADS-STREAMING-f7768e?style=for-the-badge" alt="Live Thread">
+  <a href="[https://www.linkedin.com/in/shifa-parveen-286251307](https://www.linkedin.com/in/shifa-parveen-286251307)"><img src="[https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></a>
+  <img src="[https://img.shields.io/badge/STATUS-OPERATIONAL-9ece6a?style=for-the-badge](https://img.shields.io/badge/STATUS-OPERATIONAL-9ece6a?style=for-the-badge)" alt="Status">
+  <img src="[https://img.shields.io/badge/LIVE__THREADS-STREAMING-f7768e?style=for-the-badge](https://img.shields.io/badge/LIVE__THREADS-STREAMING-f7768e?style=for-the-badge)" alt="Live Thread">
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=500&lines=System.out.println(%22Shifa+Parveen%22);;Applied+Deep+Learning+Architect;;Graph+Theory+Optimization;;Philosophy:+Show+me+the+code.;" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=500&lines=System.out.println(%22Shifa+Parveen%22);;Applied+Deep+Learning+Architect;;Graph+Theory+Optimization;;Philosophy:+Show+me+the+code](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=500&lines=System.out.println(%22Shifa+Parveen%22);;Applied+Deep+Learning+Architect;;Graph+Theory+Optimization;;Philosophy:+Show+me+the+code).;" alt="Typing SVG" />
 </p>
 
 I am a **Computer Science Major** who operates at the intersection of raw data architecture and predictive intelligence. My engineering focus centers on building low-latency data pipelines, training optimized metric-learning networks, and modeling complex relational graphs to extract real-world behavioral insights.
@@ -18,20 +18,20 @@ I am a **Computer Science Major** who operates at the intersection of raw data a
 
 <div align="left">
   <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python">
+    <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" alt="Java">
+    <img src="[https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)" alt="C">
+    <img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)" alt="SQL">
+    <img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)" alt="Tensorflow">
+    <img src="[https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)" alt="Scikit-Learn">
+    <img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)" alt="Streamlit">
+    <img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL">
   </p>
 </div>
 
 ---
 
-## 📂 Active Production Environment // Project Mechanics
+## 📂 Production Environment // Project Mechanics
 
 ### 🧪 Compiled Repositories & Motion Breakdowns
 
