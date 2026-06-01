@@ -1,8 +1,3 @@
-Here is a premium, highly stylized version of your profile README. It uses custom typography hierarchy, modern layout spacing, dynamic badge elements, and structured visual blocks to immediately grab the attention of recruiters and open-source collaborators.
-
----
-
-```markdown
 # 🚀 Hello World, I'm Shifa Parveen! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0bTM0b3g1Mnd6NmR4M21sczNvaDJnd3RscXBybXN5Y3VwYndpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVr9WSlg5B3FiF/giphy.gif" width="35px">
 
 <p align="left">
@@ -87,10 +82,6 @@ const engineer = {
   philosophy: "Talk is cheap. Show me the code. — Linus Torvalds"
 };
 
-```
-
 * 💼 **Professional Network:** Let's connect on [LinkedIn](https://www.linkedin.com/in/shifa-parveen-286251307) to discuss database optimizations, machine learning architectures, or open-source collaboration!
 
-```
 
-```
