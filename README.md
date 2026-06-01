@@ -1,4 +1,3 @@
-Markdown
 # 🖥️ ── TERMINAL.INIT() ── 🚀
 
 <p align="left">
@@ -36,10 +35,7 @@ I am a **Computer Science Major** who operates at the intersection of raw data a
 
 ### 🧪 Compiled Repositories & Motion Breakdowns
 
-<details open>
-<summary><b>👤 FacialBooks — Deep Learning Biometric Payroll Engine</b></summary>
-<br>
-
+### 👤 FacialBooks — Deep Learning Biometric Payroll Engine
 An AI workspace utility replacing manual check-ins using a custom **Siamese Neural Network** for One-Shot biometric verification. It extracts a 128-D vector mapping webcam feeds to automatic payroll updates.
 
 #### 🔄 Motion Pipeline:
@@ -47,28 +43,34 @@ An AI workspace utility replacing manual check-ins using a custom **Siamese Neur
 [Live Video Frame] ──► [96x96 Tensor] ──► [Twin CNN Embed Heads] ──► [Contrastive Loss Calc]
                                                                                │
 [Auto-Logged Payroll & Timestamp] ◄────────────────── [Verified if Distance < 0.12] ◄┘
+
+🕸️ SocialGraph — Link Prediction & Recommendation Engine
 A dependency-free social network topology visualizer and friend recommendation engine running on an optimized in-memory HashMap adjacency list model.
 🔄 Motion Pipeline:
-Plaintext
-                           ┌──► Topological Neighborhoods (Jaccard Network: 60%) ──┐
+┌──► Topological Neighborhoods (Jaccard Network: 60%) ──┐
 [Target User Node (u)] ────┤                                                       ├──► [Greedy Max-Heap] ──► Top-N Friends
                            └──► Semantic Interest Overlaps (Jaccard Interest: 40%) ──┘
+📍 Smart Travel Route Planner
 A lightweight, standalone desktop optimization framework that maps city matrices to find geometric paths under minimal runtimes. Built in pure C with a GTK+ 3.0 interface.
 🔄 Motion Pipeline:
 Plaintext
 [Origin Node] ──► [Dijkstra Matrix Relaxation] ──► [Shortest Spatial Branch Path] ──► [GTK Render]
+📉 Student Grade Tracker
 An event-driven desktop tracking dashboard powered by an index-synchronized parallel list data engine in Java Swing.
 🔄 Motion Pipeline:
 Plaintext
 [Input Name/Grade] ──► [Simultaneous Parallel Array Push: snames[i] ◄═► sgrades[i]] ──► [Live UI Dashboard Refresh]
+🌧️ Rainfall Prediction System
 An ML-powered meteorological forecasting pipeline that standardizes volatile climate variables to output precipitation probability metrics.
 🔄 Motion Pipeline:
 Plaintext
 [Raw Climate Telemetry] ──► [MinMaxScaler Pipeline] ──► [Scikit-Learn Inference Engine] ──► [Live Streamlit Gauge]
+✈️ Airline Reservation Management System
 A relational flight database tracking aircraft scheduling arrays, seat maps, and multi-user transaction isolation boundaries.
 🔄 Motion Pipeline:
 Plaintext
 [User Flight Search] ──► [MySQL Index Cache Lookup] ──► [3NF Schema Transaction Lock] ──► [Seat Allocation Update]
+🎨 shifa-portfolio-mysite & Bisht-rose-day
 Interactive frontend portfolio layouts emphasizing micro-interactions, responsive grids, and crisp layout animations.
 🔄 Motion Pipeline:
 Plaintext
