@@ -42,7 +42,7 @@ I am a **Computer Science Major** who operates at the intersection of raw data a
 An AI workspace utility replacing manual check-ins using a custom **Siamese Neural Network** for One-Shot biometric verification. It extracts a 128-D vector mapping webcam feeds to automatic payroll updates.
 
 #### 🔄 Motion Pipeline:
-```txt
+
 [Live Video Frame] ──► [96x96 Tensor] ──► [Twin CNN Embed Heads] ──► [Contrastive Loss Calc]
                                                                                │
 [Auto-Logged Payroll & Timestamp] ◄────────────────── [Verified if Distance < 0.12] ◄┘
