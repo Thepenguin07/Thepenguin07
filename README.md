@@ -67,8 +67,8 @@ I am a **Computer Science Major** deeply invested in the intersection of **Data 
 ## ⚡ Git Tracking Dashboard
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thepenguin07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thepenguin07&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thepenguin07&show_icons=true&theme=tokyonight&count_private=true&text_color=9ece6a" alt="Github Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thepenguin07&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
 ---
@@ -81,7 +81,4 @@ const engineer = {
   specialties: ["Graph Algorithms", "ML Model Deployment", "Python Automation"],
   philosophy: "Talk is cheap. Show me the code. — Linus Torvalds"
 };
-
-* 💼 **Professional Network:** Let's connect on [LinkedIn](https://www.linkedin.com/in/shifa-parveen-286251307) to discuss database optimizations, machine learning architectures, or open-source collaboration!
-
 
