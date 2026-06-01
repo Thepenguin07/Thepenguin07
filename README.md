@@ -1,3 +1,4 @@
+Markdown
 # 🖥️ ── TERMINAL.INIT() ── 🚀
 
 <p align="left">
@@ -29,47 +30,94 @@ I am a **Computer Science Major** who operates at the intersection of raw data a
 
 ## 📂 Production Environment // Project Mechanics
 
-### 🧪 Compiled Repositories & Execution Pipelines
+### 🧪 Compiled Repositories & Pipeline Execution Flow
 
 ### 👤 FacialBooks — Deep Learning Biometric Payroll Engine
 An AI workspace utility replacing manual check-ins using a custom **Siamese Neural Network** for One-Shot biometric verification. It extracts a 128-D vector mapping webcam feeds to automatic payroll updates.
 
-```txt
-[⚡ RUNNING] Live Video Frame ──► 96x96 Tensor ──► Twin CNN Embed Heads ──► Contrastive Loss
-[STATUS]     Evaluating Euclidean Distance... ──► Verified if < 0.12 ──► Logged to Payroll
-🕸️ SocialGraph — Link Prediction & Recommendation Engine
-A dependency-free social network topology visualizer and friend recommendation engine running on an optimized in-memory HashMap adjacency list model.
-Plaintext
-[⚡ RUNNING] Node (u) Query ──► Adjacency List HashMap Fetch ──► Matrix Weight Balancing
-[STATUS]     0.6 * Jaccard Network + 0.4 * Jaccard Interests ──► Greedy Max-Heap Sort O(K log N)
-📍 Smart Travel Route Planner
+> **🔄 Motion Pipeline Layout:**
+> `[Live Video Frame]` ──► `[96x96 Tensor]` ──► `[Twin CNN Embed Heads]` ──► `[Contrastive Loss Calc]`
+>
+> `[Auto-Logged Payroll]` ◄── `[Verified Profile Status]` ◄── `[If Vector Distance < 0.12]`
+
+---
+
+### 🕸️ SocialGraph — Link Prediction & Recommendation Engine
+A dependency-free social network topology visualizer and friend recommendation engine running on an optimized in-memory `HashMap` adjacency list model.
+
+> **🔄 Motion Pipeline Layout:**
+> `[Target User Node (u)]` ──► `[HashMap Adjacency Lookup]` ──► `[Relational Matrix Weighting]`
+>
+> `[Top-N Target Queue Output]` ◄── `[Greedy Max-Heap Filter]` ◄── `[0.6*Jaccard_Net + 0.4*Jaccard_Int]`
+
+---
+
+### 📍 Smart Travel Route Planner
 A lightweight, standalone desktop optimization framework that maps city matrices to find geometric paths under minimal runtimes. Built in pure C with a GTK+ 3.0 interface.
-Plaintext
-[⚡ RUNNING] Origin Entry ──► Scanning Adjacency Edge Array ──► Matrix Pointer Relaxation
-[STATUS]     Executing Dijkstra Paths + Floyd-Warshall All-Pairs ──► Direct GTK Window Render
-📉 Student Grade Tracker
+
+> **🔄 Motion Pipeline Layout:**
+> `[Origin Matrix Input]` ──► `[Dijkstra Edge Relaxation Check]` ──► `[Pointer State Calculations]`
+> 
+> `[Instant Static Desktop UI Render]` ──► `[Floyd-Warshall All-Pairs Evaluation Matrix]`
+
+---
+
+### 📉 Student Grade Tracker
 An event-driven desktop tracking dashboard powered by an index-synchronized parallel list data engine in Java Swing.
-Plaintext
-[⚡ RUNNING] Form Listener Catch ──► Parallel Array Push: snames[i] ◄════► sgrades[i]
-[STATUS]     Sorting Pointer Index Registry ──► Dynamic Viewport Array Paint Event
-🌧️ Rainfall Prediction System
+
+> **🔄 Motion Pipeline Layout:**
+> `[Form Event Capture]` ──► `[Simultaneous ArrayList Dual Sync Push: snames[i] ◄═► sgrades[i]]`
+> 
+> `[Live Swing Viewport Paint Update]` ──► `[Non-Mutating Dynamic Pointer Index Rank Sorting]`
+
+---
+
+### 🌧️ Rainfall Prediction System
 An ML-powered meteorological forecasting pipeline that standardizes volatile climate variables to output precipitation probability metrics.
-Plaintext
-[⚡ RUNNING] Fetching Telemetry ──► Processing Array Core ──► MinMaxScaler Vector Pipeline
-[STATUS]     Scikit-Learn Supervised Regression Compute ──► Streamlit Terminal UI Frame
-✈️ Airline Reservation Management System
+
+> **🔄 Motion Pipeline Layout:**
+> `[Raw Meteorological Telemetry Input]` ──► `[MinMaxScaler Array Transformation Engine]`
+> 
+> `[Streamlit Dashboard Interface Output]` ◄── `[SciKit-Learn Regression Vector Inference]`
+
+---
+
+### ✈️ Airline Reservation Management System
 A relational flight database tracking aircraft scheduling arrays, seat maps, and multi-user transaction isolation boundaries.
-Plaintext
-[⚡ RUNNING] User Search Parameters ──► Query Optimizer Hash ──► Execution Plan Match
-[STATUS]     Reading Normalized DB Schema (3NF) ──► Allocating Atomic Row Locking
-🎨 shifa-portfolio-mysite & Bisht-rose-day
+
+> **🔄 Motion Pipeline Layout:**
+> `[Passenger Query Intercept]` ──► `[Engine Optimization Hash Execution Plan Match]`
+> 
+> `[Dynamic Aircraft Seating Inventory Lock]` ◄── `[3NF Normalization Row Constrained Registry]`
+
+---
+
+### 🎨 shifa-portfolio-mysite & Bisht-rose-day
 Interactive frontend portfolio layouts emphasizing micro-interactions, responsive grids, and crisp layout animations.
-Plaintext
-[⚡ RUNNING] DOM Event Listener ──► CSS Engine Pointer Transition ──► Matrix Style Transform
-[STATUS]     Executing Keyframe Animation Layer Assemblies ──► Viewport Paint Done
-⚡ Git Performance & Telemetry Dashboard
-💬 Connect Interfacing Protocol
-JavaScript
+
+> **🔄 Motion Pipeline Layout:**
+> `[DOM Trigger Event]` ──► `[Pure CSS Keyframe Transition Script Arrays]`
+> 
+> `[Smooth Asynchronous Device Target Scaling]` ──► `[Hardware Accelerated Canvas Update]`
+
+---
+
+## ⚡ Git Performance & Telemetry Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=thepenguin07&show_icons=true&theme=tokyonight&count_private=true&bg_color=1a1b26&border_color=24283b&title_color=7aa2f7&text_color=9ece6a&icon_color=f7768e" alt="Github Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepenguin07&theme=tokyonight&hide_border=true&background=1a1b26&ring=f7768e&fire=f7768e&currStreakLabel=7aa2f7&sideNums=9ece6a" alt="GitHub Streak" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepenguin07&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=9ece6a&point=f7768e&area=true&hide_border=true" alt="Activity Graph" width="100%">
+</p>
+
+---
+
+## 💬 Connect Interfacing Protocol
+
+```javascript
 const engineer = {
   name: "Shifa Parveen",
   protocols: ["Applied_Deep_Learning", "Graph_Theory_Optimization", "System_Automation"],
