@@ -1,4 +1,3 @@
-Markdown
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0bTM0b3g1Mnd6NmR4M21sczNvaDJnd3RscXBybXN5Y3VwYndpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVr9WSlg5B3FiF/giphy.gif" width="40px"> ── SYSTEM_CORE // TERMINAL.INIT() ──
 
 <p align="left">
