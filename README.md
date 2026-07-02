@@ -19,6 +19,7 @@
 
 I'm a Computer Science student who enjoys taking ideas from a blank file to a working system — whether that's a neural network recognizing faces, a graph algorithm recommending friends, or a route planner navigating city grids. I care about understanding fundamentals deeply before reaching for shortcuts, and I like projects that force me to think in data structures, not just syntax.
 
+
 🔭 Currently sharpening my skills in Java, Python, and applied ML
 🌱 Learning to build systems that are efficient, not just functional
 💬 Ask me about graph algorithms, neural nets, or file-based data handling
