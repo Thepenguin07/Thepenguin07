@@ -32,11 +32,9 @@ I'm a Computer Science student who enjoys taking ideas from a blank file to a wo
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -93,9 +91,9 @@ An ML pipeline that scales atmospheric sensor data and predicts precipitation pr
 <td width="50%" valign="top">
 
 **✈️ Airline Reservation Management System**
-A 3NF-normalized relational database for flight scheduling and seat allocation, with transaction handling for concurrent bookings.
+A C-based console application for flight booking, reading and updating flight details (10 flights) from a text file at runtime. My first larger project — built the core logic for searching flights, booking seats, and persisting changes back to file storage.
 
-`SQL` `MySQL` `Database Design`
+`C` `File Handling` `Beginner Project`
 
 </td>
 </tr>
